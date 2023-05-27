@@ -8,6 +8,7 @@ asdfs
 s   sdfds
  dsfsadf
 
+<<<<<<< HEAD
   dsfsdf
 
 
@@ -16,3 +17,6 @@ asfsadf
 
 asdfsdaf
 edit from github 
+=======
+  dsfsdf
+>>>>>>> parent of a8664cf (update1)
